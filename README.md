@@ -1,8 +1,8 @@
-![Banner](banner.png)
-“Shiv Hoysala | Demand Generation & ABM Leader
+![Banner](<img width="1080" height="608" alt="Banner" src="https://github.com/user-attachments/assets/1863ee25-3364-464a-ba8d-6a689b937c6a" />
+
 
 # marketing-portfolio
-Shiv Hoysala - Marketing Portfolio 
+
 # Shiv Hoysala – Demand Generation & ABM Portfolio  
 
 Welcome. I build scalable demand engines and ABM programs for B2B SaaS and healthcare organizations.  

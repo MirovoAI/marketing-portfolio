@@ -26,6 +26,6 @@ This page contains anonymized frameworks, campaign models, and results summaries
 ---
 
 **Contact**  
-📧 shivhoysala@email.com  
+📧 hoysala.shiv@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/shivhoysala)
 Copyright Shivhoysala 2025. Not to be duplicated

@@ -1,3 +1,6 @@
+![Banner](banner.png)
+“Shiv Hoysala | Demand Generation & ABM Leader
+
 # marketing-portfolio
 Shiv Hoysala - Marketing Portfolio 
 # Shiv Hoysala – Demand Generation & ABM Portfolio  

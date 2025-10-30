@@ -15,7 +15,8 @@ This page contains anonymized frameworks, campaign models, and results summaries
 /ABM
 ## 🎯 ABM Strategies  
 - [ABM_Case_Study_Fortune50_TieredStrategy](https://github.com/MirovoAI/ABM_Case_Study_Fortune50_TieredStrategy.md) – Three-tier ABM segmentation and orchestration.  
-- [ABM_Content_Workflow](link) – How to structure content by persona stage.  
+- [ABM_Content_Workflow](link) – How to structure content by persona stage.
+- https://github.com/MirovoAI/-1-few-ABM-scale-piple-line-framework-using-6Sense 
 
 /ThoughtLeadership
 ## 🧠 Thought Pieces  

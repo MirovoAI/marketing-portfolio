@@ -6,9 +6,6 @@
 # Marketing Portfolio — Shiv Hoysala
 
 > I build scalable demand engines and ABM programs for B2B SaaS and healthcare. This repo contains anonymized frameworks, playbooks, and results.
-
-![Banner](assets/banner.png)
-
 ---
 
 ## TL;DR (for busy humans)

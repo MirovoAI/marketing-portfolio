@@ -1,7 +1,6 @@
 <img width="654" height="258" alt="Banner" src="https://github.com/user-attachments/assets/f3bd05d4-3588-447e-a231-d8b6b99a683f" />
 
 
-# marketing-portfolio
 
 # Marketing Portfolio — Shiv Hoysala
 

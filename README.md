@@ -19,8 +19,13 @@
 - [Demand Generation Frameworks](#demand-generation-frameworks)
 - [Thought Pieces](#thought-pieces)
 - [Contact](#contact)
+- [GTM] (https://github.com/MirovoAI/GTM_Engine_Shiv_Hoysala.md.) 
 
 ---
+
+## GTM ENGINE
+### Building GTM ENGINE
+https://github.com/MirovoAI/GTM_Engine_Shiv_Hoysala.md. 
 
 ## ABM Strategies
 

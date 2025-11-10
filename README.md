@@ -1,125 +1,164 @@
 <img width="654" height="258" alt="Banner" src="https://github.com/user-attachments/assets/f3bd05d4-3588-447e-a231-d8b6b99a683f" />
+# 🧠 Marketing Portfolio — Shiv Hoysala  
+*Building scalable demand engines and growth systems for B2B SaaS and Healthcare.*  
 
+This repository is a collection of anonymized case studies, frameworks, and playbooks that demonstrate how I design, operationalize, and measure modern marketing engines — from ABM to Attribution.  
 
-
-# Marketing Portfolio — Shiv Hoysala
-
-> I build scalable demand engines and ABM programs for B2B SaaS and healthcare. This repo contains anonymized frameworks, playbooks, and results.
 ---
 
-## TL;DR (for busy humans)
+## ⚡ TL;DR (for busy humans)
+
 | Objective | Stack | Results |
-|---|---|---|
-| Ship accountable **ABM + Demand Gen** that Sales actually wants | **6sense**, Salesforce, HubSpot/Marketo, LinkedIn Ads, GA4, Tableau/Power BI | **$12M influenced pipeline**, **MQL→SQL 8% → 24%**, **-27% CPL**, +34% win-rate on in-market cohorts |
+|------------|--------|----------|
+| Ship accountable ABM + Demand Gen that Sales actually wants | 6sense, Salesforce, HubSpot/Marketo, LinkedIn Ads, GA4, Tableau/Power BI | $12M influenced pipeline · MQL→SQL 8% → 24% · CPL −27% · Win-rate +34% on in-market cohorts |
 
 ---
 
-## Contents
-- [ABM Strategies](#abm-strategies)
+## 🧩 Contents
+
+- [ABM Case Studies](#abm-case-studies)
 - [Demand Generation Frameworks](#demand-generation-frameworks)
+- [GTM Engine](#gtm-engine)
+- [Marketing Mix Modeling & Incrementality](#marketing-mix-modeling--incrementality)
+- [Field & Event Marketing](#field--event-marketing)
+- [Global Content Operations](#global-content-operations)
+- [Playbooks](#playbooks)
 - [Thought Pieces](#thought-pieces)
 - [Contact](#contact)
-- [GTM] (https://github.com/MirovoAI/GTM_Engine_Shiv_Hoysala.md.) 
 
 ---
 
-## GTM ENGINE
-### Building GTM ENGINE
-https://github.com/MirovoAI/GTM_Engine_Shiv_Hoysala.md. 
+## 🎯 ABM Case Studies
 
-## ABM Strategies
-
-### 1) Tiered ABM for a Fortune 50 Healthcare Client (1:1 / 1:few / 1:many)  <a id="abm-f50"></a>
-- **Framework:** Identify → Expand → Engage → Convert → Grow  
-- **What’s inside:** account selection, buying-group mapping, content orchestration, SLAs with Sales, incrementality attribution  
-- **Outcomes:** $14M influenced pipeline (incl. $12M from 1:1), MQL→SQL ↑ to **24%**, engagement +48%, CPL −27%  
-- **Read the case:** [Open summary](#fortune-50-abm-summary)
-
-### 2) **1:few ABM using 6sense** — APAC + US pod (18 accounts)  <a id="abm-1few-6sense"></a>
-- **Goal:** Prioritize in-market accounts via **6sense Fit/Intent/Stage**, align plays with AEs/SDRs, and prove **incremental lift**  
-- **Playbook:** [Identify](#identify) → [Prioritize](#prioritize) → [Engage](#engage) → [Enable](#enable) → [Convert](#convert) → [Attribute](#attribute) → [Expand](#expand)  
-- **Outcomes:** **$12M** influenced pipeline, **8% → 24%** MQL→SQL, +29% opp creation vs control, win-rate +7 pts
-
----
-
-## Demand Generation Frameworks
-
-### 1) Centralized Inbound + Paid for APAC
-- **What’s inside:** campaign architecture, UTM discipline, offer ladder, budget weighting by marginal ROI  
-- **Artifacts:** KPI tree, scorecards, BI dashboard schema
-
-### 2) Full-Funnel Optimization (Attribution, MMM/Incrementality, Cadence)
-- **What’s inside:** multi-touch model (first/inflection/opp/late-stage), **holdout testing**, and weekly optimization loop
-- **Outcome:** 20–35% pipeline efficiency gains when enforced with SLAs
-
----
-
-## Thought Pieces
-
-- **Defining DemandGen KPIs in HealthTech SaaS** — a decision tree for CFO-safe metrics (CAC proxy, payback, velocity)  
-- **Integrating AI into Marketing Ops** — practical workflows (content gen, QA, clustering, enrichment) that **don’t** wreck brand voice
-
----
-
-## Fortune 50 ABM — Summary  <a id="fortune-50-abm-summary"></a>
-
-**Scope:**  
-- **1:1**: Fortune 50 payer (multi-region)  
-- **1:few**: 15 payer-provider accounts (common pains)  
-- **1:many**: 150+ IT prospects (APAC & LATAM)
-
-**Key moves:**  
-- Buying-group matrix in **Salesforce** (20 contacts), **6sense** intent digests to Slack  
-- Orchestrated plays by persona (exec invite, ROI calc, benchmark microsite, 6-min demo)  
-- **SLA**: SDR touch ≤ 24h post-MQA, AE follow-up ≤ 72h on multi-persona engagement  
-- **Attribution**: matched-control incrementality + multi-touch model in BI
-
+### 1️⃣ [Tiered ABM for a Fortune 50 Healthcare Client (1:1 / 1:Few / 1:Many)](https://github.com/MirovoAI/ABM_Case_Study_Fortune50_TieredStrategy.md)
+**Framework:** Identify → Expand → Engage → Convert → Grow  
+**Highlights:** Account selection, buying-group mapping, content orchestration, SLAs with Sales, incrementality attribution  
 **Results:**  
-- **$14M** influenced pipeline (incl. $12M 1:1)  
-- **MQL→SQL 8% → 24%**, win-rate +7 pts, CPL −27%
+- $14M influenced pipeline (incl. $12M from 1:1)  
+- MQL→SQL ↑ to 24%  
+- Engagement +48%, CPL −27%  
 
 ---
 
-## 1:few ABM with 6sense — Working Notes
-
-### Identify
-- 6sense **Fit A/B**, **Stage: Consideration/Decision**, **Surge ≥ 30%** on topics: interoperability, data modernization, governance  
-- Exclude saturated/no-whitespace in Salesforce; 32 accounts → **18** (two pods of 9)
-
-### Prioritize
-- Map **Economic/Technical/User** personas, infer pains from **6sense keyword/page** trails  
-- Persona cards with proof and talk-tracks
-
-### Engage
-- Same core narrative, **proof-point swaps** per cluster  
-- Triggers: surge ≥ 35%, ≥ 2 personas engaged in 7 days → route to SDR
-
-### Enable
-- Weekly 30-min pod (Mktg + AE + SDR + SE)  
-- Tableau/Power BI: Account score, meetings, opps, velocity, owner next-action
-
-### Convert
-- Pre-meeting **ROI calculator** email lifted meeting→opp by **+21%**  
-- AE+SE joint call for MQA+demand signals
-
-### Attribute
-- **Incrementality** vs matched control (8–12 weeks)  
-- Multi-touch weights (10/40/30/20): first / inflection / opp-creation / late-stage
-
-### Expand
-- Customer proof program (joint webinar + 2-pager + quote tile)  
-- Feed back learnings to **6sense** topics & content roadmap
+### 2️⃣ [1:Few ABM using 6sense — APAC + US Pod (18 Accounts)](https://github.com/MirovoAI/-1-few-ABM-scale-piple-line-framework-using-6Sense)
+**Goal:** Prioritize in-market accounts via 6sense Fit/Intent/Stage, align plays with AEs/SDRs, and prove incremental lift.  
+**Playbook:** Identify → Prioritize → Engage → Enable → Convert → Attribute → Expand  
+**Results:**  
+- $12M influenced pipeline  
+- MQL→SQL 8% → 24%  
+- +29% opp creation vs control  
+- Win-rate +7 pts  
 
 ---
 
-## Contact
+### 3️⃣ [1:Many Demand Generation — APAC Case Study](https://github.com/MirovoAI/DemandGen_1toMany_CaseStudy_India_APAC.md)
+**Objective:** Scale 1:Many campaigns across India & APAC with precision segmentation and multi-channel orchestration.  
+**Framework:** Identify → Expand → Engage → Convert → Grow  
+**Results:**  
+- MQL→SQL conversion 4% → 28%  
+- SQL→Opp 17% → 41%  
+- Pipeline influenced: $25M ARR  
+- CPL −33%  
 
-- 📧 **hoysala.shiv@gmail.com**  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/shivhoysala
+---
 
-> © 2025 Shiv Hoysala. Not to be duplicated.
+## 🚀 [GTM Engine](https://github.com/MirovoAI/GTM_Engine_Shiv_Hoysala.md)
+**Framework:** Diagnose → Build → Scale  
+**Goal:** Align marketing, sales, and product functions to accelerate pipeline velocity.  
+**Highlights:**  
+- ICP redefinition and tiered messaging  
+- Cross-functional cadence model  
+- 30/60/90 rollout plan for GTM orchestration  
+**Impact:** CAC −22%, ARR +18%  
 
-**Contact**  
-📧 hoysala.shiv@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/shivhoysala)
-Copyright Shivhoysala 2025. Not to be duplicated
+---
+
+## 📊 [Marketing Mix Modeling & Incrementality](https://github.com/MirovoAI/MMM_Incrementality_Attribution_Analytics_ShivHoysala.md)
+**Objective:** Quantify true marketing impact using MMM and synthetic control modeling.  
+**Method:** Combined historical media data, CRM pipeline, and regional holdouts across India and US markets.  
+**Results:**  
+- Verified causal lift +11.4% (CI ±3.5%)  
+- ROI +31%  
+- Non-incremental spend −22%  
+**Framework:** MMM → Synthetic Control → Attribution Loop  
+
+---
+
+## 🌍 [Field & Event Marketing — Tier-2 Pipeline Acceleration](https://github.com/MirovoAI/Field_Marketing_Tier2_Pipeline_Acceleration_ShivHoysala.md)
+**Objective:** Build Tier-2 pipeline in India via regional events and brand activations.  
+**Framework:** Persona Mapping → Event Pods → Messaging Alignment → Conversion Loops  
+**Execution:**  
+- Vendor ecosystem across 5 metros (agencies, NASSCOM, PR partners)  
+- Field-level demand + brand lift hybrid model  
+**Results:**  
+- 9.8× ROI  
+- +121% Tier-2 pipeline growth  
+- Brand recall ↑ 46%  
+
+---
+
+## 🧠 [Global Content Operations Engine](https://github.com/MirovoAI/Global_Content_Operations_Engine_ShivHoysala.md)
+**Objective:** Operationalize a global-to-regional content system integrating HQ strategy with APAC + US execution.  
+**Framework:** Ideate → Create → Localize → Activate → Measure → Optimize  
+**Results:**  
+- Content cycle time −61%  
+- Asset reuse 83%  
+- Pipeline influenced $3.7M  
+**Stack:** CMS · HubSpot · Asana · Power BI  
+
+---
+
+## ⚙️ [Marketing Playbooks](https://github.com/MirovoAI/-Playbooks-Marketing_Playbooks_ShivHoysala.md)
+**Purpose:** Codified frameworks for scalable marketing systems.  
+Includes playbooks for:  
+- ABM Execution  
+- GTM Activation  
+- MMM / Causal Analytics  
+- Field Marketing  
+- Content Operations  
+- Leadership / Enablement  
+
+> *“Where growth becomes a system.”*  
+
+---
+
+## 💭 Thought Pieces  
+
+**1.** *Defining DemandGen KPIs in HealthTech SaaS* — A decision tree for CFO-safe metrics (CAC proxy, payback, velocity).  
+**2.** *Integrating AI into Marketing Ops* — Workflows for AI-assisted content generation, QA, clustering, and enrichment without wrecking brand voice.  
+
+*(More coming: “The Future of Measurement” & “AI and Marketing Systems”)*  
+
+---
+
+## 🧩 Related Frameworks  
+
+| Area | Link |
+|------|------|
+| GTM | [GTM Engine](https://github.com/MirovoAI/GTM_Engine_Shiv_Hoysala.md) |
+| ABM 1:1 | [Tiered ABM Case](https://github.com/MirovoAI/ABM_Case_Study_Fortune50_TieredStrategy.md) |
+| ABM 1:Few | [6sense ABM Framework](https://github.com/MirovoAI/-1-few-ABM-scale-piple-line-framework-using-6Sense) |
+| ABM 1:Many | [DemandGen Case — APAC](https://github.com/MirovoAI/DemandGen_1toMany_CaseStudy_India_APAC.md) |
+| MMM / Incrementality | [Attribution Analytics](https://github.com/MirovoAI/MMM_Incrementality_Attribution_Analytics_ShivHoysala.md) |
+| Field & Events | [Tier-2 Pipeline Acceleration](https://github.com/MirovoAI/Field_Marketing_Tier2_Pipeline_Acceleration_ShivHoysala.md) |
+| Content Ops | [Global Content Operations Engine](https://github.com/MirovoAI/Global_Content_Operations_Engine_ShivHoysala.md) |
+| Playbooks | [Marketing Systems Playbook](https://github.com/MirovoAI/-Playbooks-Marketing_Playbooks_ShivHoysala.md) |
+
+---
+
+## 📫 Contact  
+
+📧 **Email:** [hoysala.shiv@gmail.com](mailto:hoysala.shiv@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/shivhoysala](https://www.linkedin.com/in/shivhoysala)  
+
+© 2025 **Shiv Hoysala**.  
+All materials are anonymized and for demonstration purposes only.  
+Unauthorized reproduction or redistribution is prohibited.  
+
+---
+
+
+
+
+
+

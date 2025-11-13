@@ -19,6 +19,7 @@ This repository is a collection of anonymized case studies, frameworks, and play
 - [ABM Case Studies](#abm-case-studies)
 - [Demand Generation Frameworks](#demand-generation-frameworks)
 - [GTM Engine](#gtm-engine)
+- [Product Marketing] (https://github.com/MirovoAI/Product_Marketing_FeatureLaunch_ShivHoysala.md.git) 
 - [Marketing Mix Modeling & Incrementality](#marketing-mix-modeling--incrementality)
 - [Field & Event Marketing](#field--event-marketing)
 - [Global Content Operations](#global-content-operations)
